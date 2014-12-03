@@ -9,7 +9,7 @@
 
 	<!-- Application Title -->
 	<title>Pagemark</title>
-
+    <link href="/favicon.ico?" type="image/x-icon" rel="icon" />
 	<!-- Bootstrap CSS -->
 	<link href="/css/app.css" rel="stylesheet">
 	<link href="/css/vendor/font-awesome.css" rel="stylesheet">
